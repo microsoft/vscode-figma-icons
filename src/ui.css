@@ -1,0 +1,154 @@
+@import url('reset.css');
+
+@font-face {
+  font-family: codicons;
+  src: url('./assets/codicon.ttf');
+}
+
+@font-face {
+  font-family: seti;
+  src: url('./assets/seti.ttf');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #333;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  font-size: 16px;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.hide {
+  display: none;
+}
+
+#banner:not(.hide) {
+  padding: 8px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  color: white;
+  border: 1px solid #CF0000;
+  background-color: #62171A;
+}
+
+#banner .both {
+  display: none;
+}
+
+#banner.seti.codicons .both{
+  display: inline-block;
+}
+#banner svg {
+  align-self: flex-start;
+  width: 16x;
+  height: 16px;
+  margin-right: 6px;
+}
+
+#banner a {
+  color: white;
+}
+
+.banner.show {
+  display: block;
+}
+
+glyph {
+  font-size: 26px;
+  pointer-events: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0 8px;
+  display: grid;
+  grid-gap: 4px;
+  overflow-y: scroll;
+  grid-template-columns: repeat(4, auto);
+}
+
+li {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+li:hover {
+  cursor: pointer;
+  background-color: rgba(0,0,0,.04);
+}
+
+li[icon-library="codicon"] glyph {
+  font-family: codicons;
+}
+
+li[icon-library="seti"] glyph {
+  font-family: seti;
+}
+
+name {
+  margin-top: 8px;
+  font-size: 10px;
+  text-align: center;
+}
+
+metadata {
+  display: none;
+}
+
+#search-input {
+  margin: 12px 8px 8px;
+  padding: 8px;
+  outline: none;
+  border: 2px solid #E5E5E5;
+}
+
+#search-input.disabled {
+  opacity: .4;
+  pointer-events: none;
+}
+
+#search-input::placeholder{
+  color: #b3b3b3;
+}
+
+#search-input:focus {
+  border: 2px solid #007fd4;
+}
+
+li[icon-library="seti"] glyph {
+  color: #519ABA;
+}
+
+
+@media screen and (prefers-color-scheme: dark) {
+  body, input {
+    color: #ccc;
+    background-color: #252526;
+  }
+  glyph {
+    color: #ccc;
+  }
+  li:hover {
+  background-color: rgba(255,255,255,.08);
+  }
+  #search-input {
+    background-color: #3C3C3C;
+    border-color: transparent;
+  }
+  #search-input::placeholder{
+    color: #A6A6A6;
+  }
+}

@@ -1,0 +1,2528 @@
+[
+  {
+    "short_name": "account",
+    "character": "",
+    "unicode": "EB99",
+    "description": "person people face user contact outline"
+  },
+  {
+    "short_name": "activate-breakpoints",
+    "character": "",
+    "unicode": "EA97",
+    "description": "dot circle toggle switch"
+  },
+  {
+    "short_name": "add",
+    "character": "",
+    "unicode": "EA60",
+    "description": "combine plus add more new"
+  },
+  {
+    "short_name": "archive",
+    "character": "",
+    "unicode": "EA98",
+    "description": "save box delivery package"
+  },
+  {
+    "short_name": "arrow-both",
+    "character": "",
+    "unicode": "EA99",
+    "description": "switch swap"
+  },
+  {
+    "short_name": "arrow-down",
+    "character": "",
+    "unicode": "EA9A",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-left",
+    "character": "",
+    "unicode": "EA9B",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-right",
+    "character": "",
+    "unicode": "EA9C",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-small-down",
+    "character": "",
+    "unicode": "EA9D",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-small-left",
+    "character": "",
+    "unicode": "EA9E",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-small-right",
+    "character": "",
+    "unicode": "EA9F",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-small-up",
+    "character": "",
+    "unicode": "EAA0",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-up",
+    "character": "",
+    "unicode": "EAA1",
+    "description": ""
+  },
+  {
+    "short_name": "beaker",
+    "character": "",
+    "unicode": "EA79",
+    "description": "test lab tube tool"
+  },
+  {
+    "short_name": "bell-dot",
+    "character": "",
+    "unicode": "EB9A",
+    "description": "alert notify notification"
+  },
+  {
+    "short_name": "bell",
+    "character": "",
+    "unicode": "EAA2",
+    "description": "alert notify notification"
+  },
+  {
+    "short_name": "bold",
+    "character": "",
+    "unicode": "EAA3",
+    "description": "text format weight font style"
+  },
+  {
+    "short_name": "book",
+    "character": "",
+    "unicode": "EAA4",
+    "description": "library text read open"
+  },
+  {
+    "short_name": "bookmark",
+    "character": "",
+    "unicode": "EAA5",
+    "description": "book save later"
+  },
+  {
+    "short_name": "briefcase",
+    "character": "",
+    "unicode": "EAAC",
+    "description": "work workplace"
+  },
+  {
+    "short_name": "broadcast",
+    "character": "",
+    "unicode": "EAAD",
+    "description": "tower signal connect connection"
+  },
+  {
+    "short_name": "browser",
+    "character": "",
+    "unicode": "EAAE",
+    "description": "web internet page window"
+  },
+  {
+    "short_name": "bug",
+    "character": "",
+    "unicode": "EAAF",
+    "description": "error issue insect block"
+  },
+  {
+    "short_name": "calendar",
+    "character": "",
+    "unicode": "EAB0",
+    "description": "day time week month date schedule event planner"
+  },
+  {
+    "short_name": "call-incoming",
+    "character": "",
+    "unicode": "EB92",
+    "description": "phone cell voice connection direction"
+  },
+  {
+    "short_name": "call-outgoing",
+    "character": "",
+    "unicode": "EB93",
+    "description": "phone cell voice connection direction"
+  },
+  {
+    "short_name": "case-sensitive",
+    "character": "",
+    "unicode": "EAB1",
+    "description": "search filter option letters words"
+  },
+  {
+    "short_name": "check-all",
+    "character": "",
+    "unicode": "EBB1",
+    "description": "checkmark select everything checked mark complete finish done accept approve"
+  },
+  {
+    "short_name": "check",
+    "character": "",
+    "unicode": "EAB2",
+    "description": "checkmark select everything checked mark complete finish done accept approve"
+  },
+  {
+    "short_name": "checklist",
+    "character": "",
+    "unicode": "EAB3",
+    "description": "checkmark select everything checked mark complete finish done accept todo task text"
+  },
+  {
+    "short_name": "chevron-down",
+    "character": "",
+    "unicode": "EAB4",
+    "description": "twistie tree node folder fold collapse"
+  },
+  {
+    "short_name": "chevron-left",
+    "character": "",
+    "unicode": "EAB5",
+    "description": "twistie tree node folder fold collapse"
+  },
+  {
+    "short_name": "chevron-right",
+    "character": "",
+    "unicode": "EAB6",
+    "description": "twistie tree node folder fold collapse"
+  },
+  {
+    "short_name": "chevron-up",
+    "character": "",
+    "unicode": "EAB7",
+    "description": "twistie tree node folder fold collapse"
+  },
+  {
+    "short_name": "chrome-close",
+    "character": "",
+    "unicode": "EAB8",
+    "description": "menu bar window dismiss"
+  },
+  {
+    "short_name": "chrome-maximize",
+    "character": "",
+    "unicode": "EAB9",
+    "description": "menu bar window large increase"
+  },
+  {
+    "short_name": "chrome-minimize",
+    "character": "",
+    "unicode": "EABA",
+    "description": "menu bar window small decrease"
+  },
+  {
+    "short_name": "chrome-restore",
+    "character": "",
+    "unicode": "EABB",
+    "description": "menu bar window"
+  },
+  {
+    "short_name": "circle-filled",
+    "character": "",
+    "unicode": "EA71",
+    "description": "dot round small bullet breakpoint"
+  },
+  {
+    "short_name": "circle-large-filled",
+    "character": "",
+    "unicode": "EBB4",
+    "description": "dot round bullet"
+  },
+  {
+    "short_name": "circle-large-outline",
+    "character": "",
+    "unicode": "EBB5",
+    "description": "dot round bullet"
+  },
+  {
+    "short_name": "circle-outline",
+    "character": "",
+    "unicode": "EABC",
+    "description": "dot round small bullet unverified breakpoint"
+  },
+  {
+    "short_name": "circle-slash",
+    "character": "",
+    "unicode": "EABD",
+    "description": "error block stop disable"
+  },
+  {
+    "short_name": "circuit-board",
+    "character": "",
+    "unicode": "EABE",
+    "description": "iot device process lines"
+  },
+  {
+    "short_name": "clear-all",
+    "character": "",
+    "unicode": "EABF",
+    "description": "reset remove"
+  },
+  {
+    "short_name": "clippy",
+    "character": "",
+    "unicode": "EAC0",
+    "description": "clipboard document edit copy"
+  },
+  {
+    "short_name": "close-all",
+    "character": "",
+    "unicode": "EAC1",
+    "description": "remove bulk"
+  },
+  {
+    "short_name": "close",
+    "character": "",
+    "unicode": "EA76",
+    "description": "remove x cancel stop miltiply"
+  },
+  {
+    "short_name": "cloud-download",
+    "character": "",
+    "unicode": "EAC2",
+    "description": "install import"
+  },
+  {
+    "short_name": "cloud-upload",
+    "character": "",
+    "unicode": "EAC3",
+    "description": "export"
+  },
+  {
+    "short_name": "cloud",
+    "character": "",
+    "unicode": "EBAA",
+    "description": "online service"
+  },
+  {
+    "short_name": "code",
+    "character": "",
+    "unicode": "EAC4",
+    "description": "embed script programming server"
+  },
+  {
+    "short_name": "collapse-all",
+    "character": "",
+    "unicode": "EAC5",
+    "description": "bulk fold minimize"
+  },
+  {
+    "short_name": "color-mode",
+    "character": "",
+    "unicode": "EAC6",
+    "description": "switch dark light contrast mode toggle"
+  },
+  {
+    "short_name": "combine",
+    "character": "",
+    "unicode": "EBB6",
+    "description": "group mix blend"
+  },
+  {
+    "short_name": "comment-discussion",
+    "character": "",
+    "unicode": "EAC7",
+    "description": "dialog message bubble chat"
+  },
+  {
+    "short_name": "comment",
+    "character": "",
+    "unicode": "EA6B",
+    "description": "dialog message bubble chat"
+  },
+  {
+    "short_name": "credit-card",
+    "character": "",
+    "unicode": "EAC9",
+    "description": "payment merchant money"
+  },
+  {
+    "short_name": "dash",
+    "character": "",
+    "unicode": "EACC",
+    "description": "line minus subtract hyphen"
+  },
+  {
+    "short_name": "dashboard",
+    "character": "",
+    "unicode": "EACD",
+    "description": "panel stats dial"
+  },
+  {
+    "short_name": "database",
+    "character": "",
+    "unicode": "EACE",
+    "description": "sql db storage online cloud"
+  },
+  {
+    "short_name": "debug-alt-small",
+    "character": "",
+    "unicode": "EBA8",
+    "description": "run"
+  },
+  {
+    "short_name": "debug-alt",
+    "character": "",
+    "unicode": "EB91",
+    "description": "run"
+  },
+  {
+    "short_name": "debug-breakpoint-conditional-unverified",
+    "character": "",
+    "unicode": "EAA6",
+    "description": "terminal command input compile build"
+  },
+  {
+    "short_name": "debug-breakpoint-conditional",
+    "character": "",
+    "unicode": "EAA7",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-data-unverified",
+    "character": "",
+    "unicode": "EAA8",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-data",
+    "character": "",
+    "unicode": "EAA9",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-function-unverified",
+    "character": "",
+    "unicode": "EB87",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-function",
+    "character": "",
+    "unicode": "EB88",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-log-unverified",
+    "character": "",
+    "unicode": "EAAA",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-log",
+    "character": "",
+    "unicode": "EAAB",
+    "description": ""
+  },
+  {
+    "short_name": "debug-breakpoint-unsupported",
+    "character": "",
+    "unicode": "EB8C",
+    "description": ""
+  },
+  {
+    "short_name": "debug-console",
+    "character": "",
+    "unicode": "EB9B",
+    "description": ""
+  },
+  {
+    "short_name": "debug-continue",
+    "character": "",
+    "unicode": "EACF",
+    "description": ""
+  },
+  {
+    "short_name": "debug-disconnect",
+    "character": "",
+    "unicode": "EAD0",
+    "description": "stop unplug eject"
+  },
+  {
+    "short_name": "debug-pause",
+    "character": "",
+    "unicode": "EAD1",
+    "description": ""
+  },
+  {
+    "short_name": "debug-rerun",
+    "character": "",
+    "unicode": "EBC0",
+    "description": ""
+  },
+  {
+    "short_name": "debug-restart-frame",
+    "character": "",
+    "unicode": "EB90",
+    "description": ""
+  },
+  {
+    "short_name": "debug-restart",
+    "character": "",
+    "unicode": "EAD2",
+    "description": ""
+  },
+  {
+    "short_name": "debug-reverse-continue",
+    "character": "",
+    "unicode": "EB8E",
+    "description": ""
+  },
+  {
+    "short_name": "debug-stackframe-active",
+    "character": "",
+    "unicode": "EB89",
+    "description": ""
+  },
+  {
+    "short_name": "debug-stackframe-dot",
+    "character": "",
+    "unicode": "EB8A",
+    "description": ""
+  },
+  {
+    "short_name": "debug-stackframe",
+    "character": "",
+    "unicode": "EB8B",
+    "description": ""
+  },
+  {
+    "short_name": "debug-start",
+    "character": "",
+    "unicode": "EAD3",
+    "description": ""
+  },
+  {
+    "short_name": "debug-step-back",
+    "character": "",
+    "unicode": "EB8F",
+    "description": ""
+  },
+  {
+    "short_name": "debug-step-into",
+    "character": "",
+    "unicode": "EAD4",
+    "description": ""
+  },
+  {
+    "short_name": "debug-step-out",
+    "character": "",
+    "unicode": "EAD5",
+    "description": ""
+  },
+  {
+    "short_name": "debug-step-over",
+    "character": "",
+    "unicode": "EAD6",
+    "description": ""
+  },
+  {
+    "short_name": "debug-stop",
+    "character": "",
+    "unicode": "EAD7",
+    "description": ""
+  },
+  {
+    "short_name": "debug",
+    "character": "",
+    "unicode": "EAD8",
+    "description": ""
+  },
+  {
+    "short_name": "desktop-download",
+    "character": "",
+    "unicode": "EA78",
+    "description": "install"
+  },
+  {
+    "short_name": "device-camera-video",
+    "character": "",
+    "unicode": "EAD9",
+    "description": "movie record capture"
+  },
+  {
+    "short_name": "device-camera",
+    "character": "",
+    "unicode": "EADA",
+    "description": "capture picture image"
+  },
+  {
+    "short_name": "device-mobile",
+    "character": "",
+    "unicode": "EADB",
+    "description": "phone handheld smartphone"
+  },
+  {
+    "short_name": "diff-added",
+    "character": "",
+    "unicode": "EADC",
+    "description": "git change"
+  },
+  {
+    "short_name": "diff-ignored",
+    "character": "",
+    "unicode": "EADD",
+    "description": "git change"
+  },
+  {
+    "short_name": "diff-modified",
+    "character": "",
+    "unicode": "EADE",
+    "description": "git change"
+  },
+  {
+    "short_name": "diff-removed",
+    "character": "",
+    "unicode": "EADF",
+    "description": "git change"
+  },
+  {
+    "short_name": "diff-renamed",
+    "character": "",
+    "unicode": "EAE0",
+    "description": "git change"
+  },
+  {
+    "short_name": "diff",
+    "character": "",
+    "unicode": "EAE1",
+    "description": "git change"
+  },
+  {
+    "short_name": "discard",
+    "character": "",
+    "unicode": "EAE2",
+    "description": "remove delete"
+  },
+  {
+    "short_name": "edit",
+    "character": "",
+    "unicode": "EA73",
+    "description": "pencil modify change"
+  },
+  {
+    "short_name": "editor-layout",
+    "character": "",
+    "unicode": "EAE3",
+    "description": "device position horizontal vertical switch"
+  },
+  {
+    "short_name": "ellipsis",
+    "character": "",
+    "unicode": "EA7C",
+    "description": "more kebab dot"
+  },
+  {
+    "short_name": "empty-window",
+    "character": "",
+    "unicode": "EAE4",
+    "description": "screen new"
+  },
+  {
+    "short_name": "error",
+    "character": "",
+    "unicode": "EA87",
+    "description": "problem issue bug"
+  },
+  {
+    "short_name": "exclude",
+    "character": "",
+    "unicode": "EAE5",
+    "description": "gear settings filter"
+  },
+  {
+    "short_name": "expand-all",
+    "character": "",
+    "unicode": "EB95",
+    "description": "bulk"
+  },
+  {
+    "short_name": "export",
+    "character": "",
+    "unicode": "EBAC",
+    "description": "arrow point out"
+  },
+  {
+    "short_name": "extensions",
+    "character": "",
+    "unicode": "EAE6",
+    "description": "plugin puzzle"
+  },
+  {
+    "short_name": "eye-closed",
+    "character": "",
+    "unicode": "EAE7",
+    "description": "hidden hide toggle"
+  },
+  {
+    "short_name": "eye",
+    "character": "",
+    "unicode": "EA70",
+    "description": "visible toggle"
+  },
+  {
+    "short_name": "feedback",
+    "character": "",
+    "unicode": "EB96",
+    "description": "smile message comment support"
+  },
+  {
+    "short_name": "file-binary",
+    "character": "",
+    "unicode": "EAE8",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-code",
+    "character": "",
+    "unicode": "EAE9",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-media",
+    "character": "",
+    "unicode": "EAEA",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-pdf",
+    "character": "",
+    "unicode": "EAEB",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-submodule",
+    "character": "",
+    "unicode": "EAEC",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-symlink-directory",
+    "character": "",
+    "unicode": "EAED",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-symlink-file",
+    "character": "",
+    "unicode": "EAEE",
+    "description": "document page"
+  },
+  {
+    "short_name": "file-zip",
+    "character": "",
+    "unicode": "EAEF",
+    "description": "document page"
+  },
+  {
+    "short_name": "file",
+    "character": "",
+    "unicode": "EA7B",
+    "description": "document page"
+  },
+  {
+    "short_name": "files",
+    "character": "",
+    "unicode": "EAF0",
+    "description": "pages"
+  },
+  {
+    "short_name": "filter",
+    "character": "",
+    "unicode": "EAF1",
+    "description": "funnel"
+  },
+  {
+    "short_name": "flame",
+    "character": "",
+    "unicode": "EAF2",
+    "description": "fire trend heat hot"
+  },
+  {
+    "short_name": "fold-down",
+    "character": "",
+    "unicode": "EAF3",
+    "description": "collapse"
+  },
+  {
+    "short_name": "fold-up",
+    "character": "",
+    "unicode": "EAF4",
+    "description": "expand"
+  },
+  {
+    "short_name": "fold",
+    "character": "",
+    "unicode": "EAF5",
+    "description": ""
+  },
+  {
+    "short_name": "folder-active",
+    "character": "",
+    "unicode": "EAF6",
+    "description": ""
+  },
+  {
+    "short_name": "folder-opened",
+    "character": "",
+    "unicode": "EAF7",
+    "description": ""
+  },
+  {
+    "short_name": "folder",
+    "character": "",
+    "unicode": "EA83",
+    "description": ""
+  },
+  {
+    "short_name": "gear",
+    "character": "",
+    "unicode": "EAF8",
+    "description": "settings cog"
+  },
+  {
+    "short_name": "gift",
+    "character": "",
+    "unicode": "EAF9",
+    "description": "feature box present"
+  },
+  {
+    "short_name": "gist-secret",
+    "character": "",
+    "unicode": "EAFA",
+    "description": ""
+  },
+  {
+    "short_name": "git-commit",
+    "character": "",
+    "unicode": "EAFC",
+    "description": ""
+  },
+  {
+    "short_name": "git-compare",
+    "character": "",
+    "unicode": "EAFD",
+    "description": ""
+  },
+  {
+    "short_name": "git-merge",
+    "character": "",
+    "unicode": "EAFE",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request-create",
+    "character": "",
+    "unicode": "EBBC",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request",
+    "character": "",
+    "unicode": "EA64",
+    "description": ""
+  },
+  {
+    "short_name": "github-action",
+    "character": "",
+    "unicode": "EAFF",
+    "description": ""
+  },
+  {
+    "short_name": "github-alt",
+    "character": "",
+    "unicode": "EB00",
+    "description": ""
+  },
+  {
+    "short_name": "github-inverted",
+    "character": "",
+    "unicode": "EBA1",
+    "description": ""
+  },
+  {
+    "short_name": "github",
+    "character": "",
+    "unicode": "EA84",
+    "description": ""
+  },
+  {
+    "short_name": "globe",
+    "character": "",
+    "unicode": "EB01",
+    "description": ""
+  },
+  {
+    "short_name": "go-to-file",
+    "character": "",
+    "unicode": "EA94",
+    "description": ""
+  },
+  {
+    "short_name": "grabber",
+    "character": "",
+    "unicode": "EB02",
+    "description": ""
+  },
+  {
+    "short_name": "graph-left",
+    "character": "",
+    "unicode": "EBAD",
+    "description": ""
+  },
+  {
+    "short_name": "graph",
+    "character": "",
+    "unicode": "EB03",
+    "description": ""
+  },
+  {
+    "short_name": "gripper",
+    "character": "",
+    "unicode": "EB04",
+    "description": ""
+  },
+  {
+    "short_name": "group-by-ref-type",
+    "character": "",
+    "unicode": "EB97",
+    "description": ""
+  },
+  {
+    "short_name": "heart",
+    "character": "",
+    "unicode": "EB05",
+    "description": ""
+  },
+  {
+    "short_name": "history",
+    "character": "",
+    "unicode": "EA82",
+    "description": ""
+  },
+  {
+    "short_name": "home",
+    "character": "",
+    "unicode": "EB06",
+    "description": ""
+  },
+  {
+    "short_name": "horizontal-rule",
+    "character": "",
+    "unicode": "EB07",
+    "description": ""
+  },
+  {
+    "short_name": "hubot",
+    "character": "",
+    "unicode": "EB08",
+    "description": ""
+  },
+  {
+    "short_name": "inbox",
+    "character": "",
+    "unicode": "EB09",
+    "description": ""
+  },
+  {
+    "short_name": "info",
+    "character": "",
+    "unicode": "EA74",
+    "description": ""
+  },
+  {
+    "short_name": "issue-closed",
+    "character": "",
+    "unicode": "EB0A",
+    "description": ""
+  },
+  {
+    "short_name": "issue-reopened",
+    "character": "",
+    "unicode": "EB0B",
+    "description": ""
+  },
+  {
+    "short_name": "issues",
+    "character": "",
+    "unicode": "EB0C",
+    "description": ""
+  },
+  {
+    "short_name": "italic",
+    "character": "",
+    "unicode": "EB0D",
+    "description": ""
+  },
+  {
+    "short_name": "jersey",
+    "character": "",
+    "unicode": "EB0E",
+    "description": ""
+  },
+  {
+    "short_name": "json",
+    "character": "",
+    "unicode": "EB0F",
+    "description": ""
+  },
+  {
+    "short_name": "kebab-vertical",
+    "character": "",
+    "unicode": "EB10",
+    "description": ""
+  },
+  {
+    "short_name": "key",
+    "character": "",
+    "unicode": "EB11",
+    "description": ""
+  },
+  {
+    "short_name": "law",
+    "character": "",
+    "unicode": "EB12",
+    "description": ""
+  },
+  {
+    "short_name": "library",
+    "character": "",
+    "unicode": "EB9C",
+    "description": ""
+  },
+  {
+    "short_name": "lightbulb-autofix",
+    "character": "",
+    "unicode": "EB13",
+    "description": ""
+  },
+  {
+    "short_name": "lightbulb",
+    "character": "",
+    "unicode": "EA61",
+    "description": ""
+  },
+  {
+    "short_name": "link-external",
+    "character": "",
+    "unicode": "EB14",
+    "description": ""
+  },
+  {
+    "short_name": "link",
+    "character": "",
+    "unicode": "EB15",
+    "description": ""
+  },
+  {
+    "short_name": "list-filter",
+    "character": "",
+    "unicode": "EB83",
+    "description": ""
+  },
+  {
+    "short_name": "list-flat",
+    "character": "",
+    "unicode": "EB84",
+    "description": ""
+  },
+  {
+    "short_name": "list-ordered",
+    "character": "",
+    "unicode": "EB16",
+    "description": ""
+  },
+  {
+    "short_name": "list-selection",
+    "character": "",
+    "unicode": "EB85",
+    "description": ""
+  },
+  {
+    "short_name": "list-tree",
+    "character": "",
+    "unicode": "EB86",
+    "description": ""
+  },
+  {
+    "short_name": "list-unordered",
+    "character": "",
+    "unicode": "EB17",
+    "description": ""
+  },
+  {
+    "short_name": "live-share",
+    "character": "",
+    "unicode": "EB18",
+    "description": ""
+  },
+  {
+    "short_name": "loading",
+    "character": "",
+    "unicode": "EB19",
+    "description": ""
+  },
+  {
+    "short_name": "location",
+    "character": "",
+    "unicode": "EB1A",
+    "description": ""
+  },
+  {
+    "short_name": "lock",
+    "character": "",
+    "unicode": "EA75",
+    "description": ""
+  },
+  {
+    "short_name": "magnet",
+    "character": "",
+    "unicode": "EBAE",
+    "description": ""
+  },
+  {
+    "short_name": "mail-read",
+    "character": "",
+    "unicode": "EB1B",
+    "description": ""
+  },
+  {
+    "short_name": "mail",
+    "character": "",
+    "unicode": "EB1C",
+    "description": ""
+  },
+  {
+    "short_name": "markdown",
+    "character": "",
+    "unicode": "EB1D",
+    "description": ""
+  },
+  {
+    "short_name": "megaphone",
+    "character": "",
+    "unicode": "EB1E",
+    "description": ""
+  },
+  {
+    "short_name": "mention",
+    "character": "",
+    "unicode": "EB1F",
+    "description": ""
+  },
+  {
+    "short_name": "menu",
+    "character": "",
+    "unicode": "EB94",
+    "description": ""
+  },
+  {
+    "short_name": "merge",
+    "character": "",
+    "unicode": "EBAB",
+    "description": ""
+  },
+  {
+    "short_name": "milestone",
+    "character": "",
+    "unicode": "EB20",
+    "description": ""
+  },
+  {
+    "short_name": "mirror",
+    "character": "",
+    "unicode": "EA69",
+    "description": ""
+  },
+  {
+    "short_name": "mortar-board",
+    "character": "",
+    "unicode": "EB21",
+    "description": ""
+  },
+  {
+    "short_name": "move",
+    "character": "",
+    "unicode": "EB22",
+    "description": ""
+  },
+  {
+    "short_name": "multiple-windows",
+    "character": "",
+    "unicode": "EB23",
+    "description": ""
+  },
+  {
+    "short_name": "mute",
+    "character": "",
+    "unicode": "EB24",
+    "description": ""
+  },
+  {
+    "short_name": "new-file",
+    "character": "",
+    "unicode": "EA7F",
+    "description": ""
+  },
+  {
+    "short_name": "new-folder",
+    "character": "",
+    "unicode": "EA80",
+    "description": ""
+  },
+  {
+    "short_name": "no-newline",
+    "character": "",
+    "unicode": "EB25",
+    "description": ""
+  },
+  {
+    "short_name": "note",
+    "character": "",
+    "unicode": "EB26",
+    "description": ""
+  },
+  {
+    "short_name": "notebook-template",
+    "character": "",
+    "unicode": "EBBF",
+    "description": ""
+  },
+  {
+    "short_name": "notebook",
+    "character": "",
+    "unicode": "EBAF",
+    "description": ""
+  },
+  {
+    "short_name": "octoface",
+    "character": "",
+    "unicode": "EB27",
+    "description": ""
+  },
+  {
+    "short_name": "open-preview",
+    "character": "",
+    "unicode": "EB28",
+    "description": ""
+  },
+  {
+    "short_name": "organization",
+    "character": "",
+    "unicode": "EA7E",
+    "description": ""
+  },
+  {
+    "short_name": "output",
+    "character": "",
+    "unicode": "EB9D",
+    "description": ""
+  },
+  {
+    "short_name": "package",
+    "character": "",
+    "unicode": "EB29",
+    "description": ""
+  },
+  {
+    "short_name": "paintcan",
+    "character": "",
+    "unicode": "EB2A",
+    "description": ""
+  },
+  {
+    "short_name": "pass-filled",
+    "character": "",
+    "unicode": "EBB3",
+    "description": ""
+  },
+  {
+    "short_name": "pass",
+    "character": "",
+    "unicode": "EBA4",
+    "description": ""
+  },
+  {
+    "short_name": "person",
+    "character": "",
+    "unicode": "EA67",
+    "description": "person people face user contact outline"
+  },
+  {
+    "short_name": "pin",
+    "character": "",
+    "unicode": "EB2B",
+    "description": ""
+  },
+  {
+    "short_name": "pinned-dirty",
+    "character": "",
+    "unicode": "EBB2",
+    "description": ""
+  },
+  {
+    "short_name": "pinned",
+    "character": "",
+    "unicode": "EBA0",
+    "description": ""
+  },
+  {
+    "short_name": "play-circle",
+    "character": "",
+    "unicode": "EBA6",
+    "description": "run"
+  },
+  {
+    "short_name": "play",
+    "character": "",
+    "unicode": "EB2C",
+    "description": "run"
+  },
+  {
+    "short_name": "plug",
+    "character": "",
+    "unicode": "EB2D",
+    "description": ""
+  },
+  {
+    "short_name": "preserve-case",
+    "character": "",
+    "unicode": "EB2E",
+    "description": ""
+  },
+  {
+    "short_name": "preview",
+    "character": "",
+    "unicode": "EB2F",
+    "description": ""
+  },
+  {
+    "short_name": "primitive-square",
+    "character": "",
+    "unicode": "EA72",
+    "description": ""
+  },
+  {
+    "short_name": "project",
+    "character": "",
+    "unicode": "EB30",
+    "description": ""
+  },
+  {
+    "short_name": "pulse",
+    "character": "",
+    "unicode": "EB31",
+    "description": ""
+  },
+  {
+    "short_name": "question",
+    "character": "",
+    "unicode": "EB32",
+    "description": ""
+  },
+  {
+    "short_name": "quote",
+    "character": "",
+    "unicode": "EB33",
+    "description": ""
+  },
+  {
+    "short_name": "radio-tower",
+    "character": "",
+    "unicode": "EB34",
+    "description": ""
+  },
+  {
+    "short_name": "reactions",
+    "character": "",
+    "unicode": "EB35",
+    "description": ""
+  },
+  {
+    "short_name": "record-keys",
+    "character": "",
+    "unicode": "EA65",
+    "description": ""
+  },
+  {
+    "short_name": "record",
+    "character": "",
+    "unicode": "EBA7",
+    "description": ""
+  },
+  {
+    "short_name": "redo",
+    "character": "",
+    "unicode": "EBB0",
+    "description": ""
+  },
+  {
+    "short_name": "references",
+    "character": "",
+    "unicode": "EB36",
+    "description": ""
+  },
+  {
+    "short_name": "refresh",
+    "character": "",
+    "unicode": "EB37",
+    "description": ""
+  },
+  {
+    "short_name": "regex",
+    "character": "",
+    "unicode": "EB38",
+    "description": ""
+  },
+  {
+    "short_name": "remote-explorer",
+    "character": "",
+    "unicode": "EB39",
+    "description": ""
+  },
+  {
+    "short_name": "remote",
+    "character": "",
+    "unicode": "EB3A",
+    "description": ""
+  },
+  {
+    "short_name": "remove",
+    "character": "",
+    "unicode": "EB3B",
+    "description": ""
+  },
+  {
+    "short_name": "replace-all",
+    "character": "",
+    "unicode": "EB3C",
+    "description": ""
+  },
+  {
+    "short_name": "replace",
+    "character": "",
+    "unicode": "EB3D",
+    "description": ""
+  },
+  {
+    "short_name": "reply",
+    "character": "",
+    "unicode": "EA7D",
+    "description": ""
+  },
+  {
+    "short_name": "repo-clone",
+    "character": "",
+    "unicode": "EB3E",
+    "description": ""
+  },
+  {
+    "short_name": "repo-force-push",
+    "character": "",
+    "unicode": "EB3F",
+    "description": ""
+  },
+  {
+    "short_name": "repo-forked",
+    "character": "",
+    "unicode": "EA63",
+    "description": ""
+  },
+  {
+    "short_name": "repo-pull",
+    "character": "",
+    "unicode": "EB40",
+    "description": ""
+  },
+  {
+    "short_name": "repo-push",
+    "character": "",
+    "unicode": "EB41",
+    "description": ""
+  },
+  {
+    "short_name": "repo",
+    "character": "",
+    "unicode": "EA62",
+    "description": ""
+  },
+  {
+    "short_name": "report",
+    "character": "",
+    "unicode": "EB42",
+    "description": ""
+  },
+  {
+    "short_name": "request-changes",
+    "character": "",
+    "unicode": "EB43",
+    "description": ""
+  },
+  {
+    "short_name": "rocket",
+    "character": "",
+    "unicode": "EB44",
+    "description": ""
+  },
+  {
+    "short_name": "root-folder-opened",
+    "character": "",
+    "unicode": "EB45",
+    "description": ""
+  },
+  {
+    "short_name": "root-folder",
+    "character": "",
+    "unicode": "EB46",
+    "description": ""
+  },
+  {
+    "short_name": "rss",
+    "character": "",
+    "unicode": "EB47",
+    "description": ""
+  },
+  {
+    "short_name": "ruby",
+    "character": "",
+    "unicode": "EB48",
+    "description": ""
+  },
+  {
+    "short_name": "run-above",
+    "character": "",
+    "unicode": "EBBD",
+    "description": ""
+  },
+  {
+    "short_name": "run-all",
+    "character": "",
+    "unicode": "EB9E",
+    "description": ""
+  },
+  {
+    "short_name": "run-below",
+    "character": "",
+    "unicode": "EBBE",
+    "description": ""
+  },
+  {
+    "short_name": "save-all",
+    "character": "",
+    "unicode": "EB49",
+    "description": ""
+  },
+  {
+    "short_name": "save-as",
+    "character": "",
+    "unicode": "EB4A",
+    "description": ""
+  },
+  {
+    "short_name": "save",
+    "character": "",
+    "unicode": "EB4B",
+    "description": ""
+  },
+  {
+    "short_name": "screen-full",
+    "character": "",
+    "unicode": "EB4C",
+    "description": ""
+  },
+  {
+    "short_name": "screen-normal",
+    "character": "",
+    "unicode": "EB4D",
+    "description": ""
+  },
+  {
+    "short_name": "search-stop",
+    "character": "",
+    "unicode": "EB4E",
+    "description": ""
+  },
+  {
+    "short_name": "search",
+    "character": "",
+    "unicode": "EA6D",
+    "description": ""
+  },
+  {
+    "short_name": "server-environment",
+    "character": "",
+    "unicode": "EBA3",
+    "description": ""
+  },
+  {
+    "short_name": "server-process",
+    "character": "",
+    "unicode": "EBA2",
+    "description": ""
+  },
+  {
+    "short_name": "server",
+    "character": "",
+    "unicode": "EB50",
+    "description": ""
+  },
+  {
+    "short_name": "settings-gear",
+    "character": "",
+    "unicode": "EB51",
+    "description": ""
+  },
+  {
+    "short_name": "settings",
+    "character": "",
+    "unicode": "EB52",
+    "description": ""
+  },
+  {
+    "short_name": "shield",
+    "character": "",
+    "unicode": "EB53",
+    "description": ""
+  },
+  {
+    "short_name": "sign-in",
+    "character": "",
+    "unicode": "EA6F",
+    "description": ""
+  },
+  {
+    "short_name": "sign-out",
+    "character": "",
+    "unicode": "EA6E",
+    "description": ""
+  },
+  {
+    "short_name": "smiley",
+    "character": "",
+    "unicode": "EB54",
+    "description": ""
+  },
+  {
+    "short_name": "sort-precedence",
+    "character": "",
+    "unicode": "EB55",
+    "description": ""
+  },
+  {
+    "short_name": "source-control",
+    "character": "",
+    "unicode": "EA68",
+    "description": ""
+  },
+  {
+    "short_name": "split-horizontal",
+    "character": "",
+    "unicode": "EB56",
+    "description": ""
+  },
+  {
+    "short_name": "split-vertical",
+    "character": "",
+    "unicode": "EB57",
+    "description": ""
+  },
+  {
+    "short_name": "squirrel",
+    "character": "",
+    "unicode": "EB58",
+    "description": ""
+  },
+  {
+    "short_name": "star-empty",
+    "character": "",
+    "unicode": "EA6A",
+    "description": ""
+  },
+  {
+    "short_name": "star-full",
+    "character": "",
+    "unicode": "EB59",
+    "description": ""
+  },
+  {
+    "short_name": "star-half",
+    "character": "",
+    "unicode": "EB5A",
+    "description": ""
+  },
+  {
+    "short_name": "stop-circle",
+    "character": "",
+    "unicode": "EBA5",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-array",
+    "character": "",
+    "unicode": "EA8A",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-boolean",
+    "character": "",
+    "unicode": "EA8F",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-class",
+    "character": "",
+    "unicode": "EB5B",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-color",
+    "character": "",
+    "unicode": "EB5C",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-constant",
+    "character": "",
+    "unicode": "EB5D",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-enum-member",
+    "character": "",
+    "unicode": "EB5E",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-enum",
+    "character": "",
+    "unicode": "EA95",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-event",
+    "character": "",
+    "unicode": "EA86",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-field",
+    "character": "",
+    "unicode": "EB5F",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-file",
+    "character": "",
+    "unicode": "EB60",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-interface",
+    "character": "",
+    "unicode": "EB61",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-key",
+    "character": "",
+    "unicode": "EA93",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-keyword",
+    "character": "",
+    "unicode": "EB62",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-method",
+    "character": "",
+    "unicode": "EA8C",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-misc",
+    "character": "",
+    "unicode": "EB63",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-namespace",
+    "character": "",
+    "unicode": "EA8B",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-numeric",
+    "character": "",
+    "unicode": "EA90",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-operator",
+    "character": "",
+    "unicode": "EB64",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-parameter",
+    "character": "",
+    "unicode": "EA92",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-property",
+    "character": "",
+    "unicode": "EB65",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-ruler",
+    "character": "",
+    "unicode": "EA96",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-snippet",
+    "character": "",
+    "unicode": "EB66",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-string",
+    "character": "",
+    "unicode": "EB8D",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-structure",
+    "character": "",
+    "unicode": "EA91",
+    "description": ""
+  },
+  {
+    "short_name": "symbol-variable",
+    "character": "",
+    "unicode": "EA88",
+    "description": ""
+  },
+  {
+    "short_name": "sync-ignored",
+    "character": "",
+    "unicode": "EB9F",
+    "description": ""
+  },
+  {
+    "short_name": "sync",
+    "character": "",
+    "unicode": "EA77",
+    "description": ""
+  },
+  {
+    "short_name": "table",
+    "character": "",
+    "unicode": "EBB7",
+    "description": ""
+  },
+  {
+    "short_name": "tag",
+    "character": "",
+    "unicode": "EA66",
+    "description": ""
+  },
+  {
+    "short_name": "tasklist",
+    "character": "",
+    "unicode": "EB67",
+    "description": ""
+  },
+  {
+    "short_name": "telescope",
+    "character": "",
+    "unicode": "EB68",
+    "description": ""
+  },
+  {
+    "short_name": "terminal",
+    "character": "",
+    "unicode": "EA85",
+    "description": ""
+  },
+  {
+    "short_name": "text-size",
+    "character": "",
+    "unicode": "EB69",
+    "description": ""
+  },
+  {
+    "short_name": "three-bars",
+    "character": "",
+    "unicode": "EB6A",
+    "description": ""
+  },
+  {
+    "short_name": "thumbsdown",
+    "character": "",
+    "unicode": "EB6B",
+    "description": ""
+  },
+  {
+    "short_name": "thumbsup",
+    "character": "",
+    "unicode": "EB6C",
+    "description": ""
+  },
+  {
+    "short_name": "tools",
+    "character": "",
+    "unicode": "EB6D",
+    "description": ""
+  },
+  {
+    "short_name": "trash",
+    "character": "",
+    "unicode": "EA81",
+    "description": ""
+  },
+  {
+    "short_name": "triangle-down",
+    "character": "",
+    "unicode": "EB6E",
+    "description": ""
+  },
+  {
+    "short_name": "triangle-left",
+    "character": "",
+    "unicode": "EB6F",
+    "description": ""
+  },
+  {
+    "short_name": "triangle-right",
+    "character": "",
+    "unicode": "EB70",
+    "description": ""
+  },
+  {
+    "short_name": "triangle-up",
+    "character": "",
+    "unicode": "EB71",
+    "description": ""
+  },
+  {
+    "short_name": "twitter",
+    "character": "",
+    "unicode": "EB72",
+    "description": ""
+  },
+  {
+    "short_name": "type-hierarchy-sub",
+    "character": "",
+    "unicode": "EBBA",
+    "description": ""
+  },
+  {
+    "short_name": "type-hierarchy-super",
+    "character": "",
+    "unicode": "EBBB",
+    "description": ""
+  },
+  {
+    "short_name": "type-hierarchy",
+    "character": "",
+    "unicode": "EBB9",
+    "description": ""
+  },
+  {
+    "short_name": "unfold",
+    "character": "",
+    "unicode": "EB73",
+    "description": ""
+  },
+  {
+    "short_name": "ungroup-by-ref-type",
+    "character": "",
+    "unicode": "EB98",
+    "description": ""
+  },
+  {
+    "short_name": "unlock",
+    "character": "",
+    "unicode": "EB74",
+    "description": ""
+  },
+  {
+    "short_name": "unmute",
+    "character": "",
+    "unicode": "EB75",
+    "description": ""
+  },
+  {
+    "short_name": "unverified",
+    "character": "",
+    "unicode": "EB76",
+    "description": ""
+  },
+  {
+    "short_name": "variable-group",
+    "character": "",
+    "unicode": "EBB8",
+    "description": ""
+  },
+  {
+    "short_name": "verified",
+    "character": "",
+    "unicode": "EB77",
+    "description": ""
+  },
+  {
+    "short_name": "versions",
+    "character": "",
+    "unicode": "EB78",
+    "description": ""
+  },
+  {
+    "short_name": "vm-active",
+    "character": "",
+    "unicode": "EB79",
+    "description": ""
+  },
+  {
+    "short_name": "vm-connect",
+    "character": "",
+    "unicode": "EBA9",
+    "description": ""
+  },
+  {
+    "short_name": "vm-outline",
+    "character": "",
+    "unicode": "EB7A",
+    "description": ""
+  },
+  {
+    "short_name": "vm-running",
+    "character": "",
+    "unicode": "EB7B",
+    "description": ""
+  },
+  {
+    "short_name": "vm",
+    "character": "",
+    "unicode": "EA7A",
+    "description": ""
+  },
+  {
+    "short_name": "warning",
+    "character": "",
+    "unicode": "EA6C",
+    "description": ""
+  },
+  {
+    "short_name": "watch",
+    "character": "",
+    "unicode": "EB7C",
+    "description": ""
+  },
+  {
+    "short_name": "whitespace",
+    "character": "",
+    "unicode": "EB7D",
+    "description": ""
+  },
+  {
+    "short_name": "whole-word",
+    "character": "",
+    "unicode": "EB7E",
+    "description": ""
+  },
+  {
+    "short_name": "window",
+    "character": "",
+    "unicode": "EB7F",
+    "description": ""
+  },
+  {
+    "short_name": "word-wrap",
+    "character": "",
+    "unicode": "EB80",
+    "description": ""
+  },
+  {
+    "short_name": "workspace-trusted",
+    "character": "",
+    "unicode": "EBC1",
+    "description": ""
+  },
+  {
+    "short_name": "workspace-unknown",
+    "character": "",
+    "unicode": "EBC3",
+    "description": ""
+  },
+  {
+    "short_name": "workspace-untrusted",
+    "character": "",
+    "unicode": "EBC2",
+    "description": ""
+  },
+  {
+    "short_name": "zoom-in",
+    "character": "",
+    "unicode": "EB81",
+    "description": ""
+  },
+  {
+    "short_name": "zoom-out",
+    "character": "",
+    "unicode": "EB82",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-cmd",
+    "character": "",
+    "unicode": "ebc4",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-debian",
+    "character": "",
+    "unicode": "ebc5",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-linux",
+    "character": "",
+    "unicode": "ebc6",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-powershell",
+    "character": "",
+    "unicode": "ebc7",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-tmux",
+    "character": "",
+    "unicode": "ebc8",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-ubuntu",
+    "character": "",
+    "unicode": "ebc9",
+    "description": ""
+  },
+  {
+    "short_name": "terminal-bash",
+    "character": "",
+    "unicode": "ebca",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-swap",
+    "character": "",
+    "unicode": "ebcb",
+    "description": ""
+  },
+  {
+    "short_name": "copy",
+    "character": "",
+    "unicode": "ebcc",
+    "description": ""
+  },
+  {
+    "short_name": "person-add",
+    "character": "",
+    "unicode": "ebcd",
+    "description": ""
+  },
+  {
+    "short_name": "filter-filled",
+    "character": "",
+    "unicode": "ebce",
+    "description": ""
+  },
+  {
+    "short_name": "wand",
+    "character": "",
+    "unicode": "ebcf",
+    "description": ""
+  },
+  {
+    "short_name": "debug-line-by-line",
+    "character": "",
+    "unicode": "ebd0",
+    "description": ""
+  },
+  {
+    "short_name": "azure",
+    "character": "",
+    "unicode": "EBD8",
+    "description": ""
+  },
+  {
+    "short_name": "beaker-stop",
+    "character": "",
+    "unicode": "EBE1",
+    "description": ""
+  },
+  {
+    "short_name": "bracket-dot",
+    "character": "",
+    "unicode": "EBE5",
+    "description": ""
+  },
+  {
+    "short_name": "bracket-error",
+    "character": "",
+    "unicode": "EBE6",
+    "description": ""
+  },
+  {
+    "short_name": "compass-active",
+    "character": "",
+    "unicode": "EBD7",
+    "description": ""
+  },
+  {
+    "short_name": "compass-dot",
+    "character": "",
+    "unicode": "EBD6",
+    "description": ""
+  },
+  {
+    "short_name": "compass",
+    "character": "",
+    "unicode": "EBD5",
+    "description": ""
+  },
+  {
+    "short_name": "debug-all",
+    "character": "",
+    "unicode": "EBDC",
+    "description": ""
+  },
+  {
+    "short_name": "debug-continue-small",
+    "character": "",
+    "unicode": "EBE0",
+    "description": ""
+  },
+  {
+    "short_name": "debug-coverage",
+    "character": "",
+    "unicode": "EBDD",
+    "description": ""
+  },
+  {
+    "short_name": "folder-library",
+    "character": "",
+    "unicode": "EBDF",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request-closed",
+    "character": "",
+    "unicode": "EBDA",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request-draft",
+    "character": "",
+    "unicode": "EBDB",
+    "description": ""
+  },
+  {
+    "short_name": "graph-line",
+    "character": "",
+    "unicode": "EBE2",
+    "description": ""
+  },
+  {
+    "short_name": "graph-scatter",
+    "character": "",
+    "unicode": "EBE3",
+    "description": ""
+  },
+  {
+    "short_name": "inspect",
+    "character": "",
+    "unicode": "EBD1",
+    "description": ""
+  },
+  {
+    "short_name": "issue-draft",
+    "character": "",
+    "unicode": "EBD9",
+    "description": ""
+  },
+  {
+    "short_name": "issue-closed",
+    "character": "",
+    "unicode": "EB0A",
+    "description": ""
+  },
+  {
+    "short_name": "layers-active",
+    "character": "",
+    "unicode": "EBD4",
+    "description": ""
+  },
+  {
+    "short_name": "layers-dot",
+    "character": "",
+    "unicode": "EBD3",
+    "description": ""
+  },
+  {
+    "short_name": "layers",
+    "character": "",
+    "unicode": "EBD2",
+    "description": ""
+  },
+  {
+    "short_name": "pie-chart",
+    "character": "",
+    "unicode": "EBE4",
+    "description": ""
+  },
+  {
+    "short_name": "run-errors",
+    "character": "",
+    "unicode": "EBDE",
+    "description": ""
+  },
+  {
+    "short_name": "azure-devops",
+    "character": "",
+    "unicode": "EBE8",
+    "description": ""
+  },
+  {
+    "short_name": "lock-small",
+    "character": "",
+    "unicode": "EBE7",
+    "description": ""
+  },
+  {
+    "short_name": "verified-filled",
+    "character": "",
+    "unicode": "EBE9",
+    "description": ""
+  },
+  {
+    "short_name": "newline",
+    "character": "",
+    "unicode": "EBEA",
+    "description": ""
+  },
+  {
+    "short_name": "layout",
+    "character": "",
+    "unicode": "EBEB",
+    "description": ""
+  },
+  {
+    "short_name": "layout-activitybar-left",
+    "character": "",
+    "unicode": "EBEC",
+    "description": ""
+  },
+  {
+    "short_name": "layout-activitybar-right",
+    "character": "",
+    "unicode": "EBED",
+    "description": ""
+  },
+  {
+    "short_name": "layout-centered",
+    "character": "",
+    "unicode": "EBF7",
+    "description": ""
+  },
+  {
+    "short_name": "layout-menubar",
+    "character": "",
+    "unicode": "EBF6",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel-center",
+    "character": "",
+    "unicode": "EBEF",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel-justify",
+    "character": "",
+    "unicode": "EBF0",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel-left",
+    "character": "",
+    "unicode": "EBEE",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel-right",
+    "character": "",
+    "unicode": "EBF1",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel",
+    "character": "",
+    "unicode": "EBF2",
+    "description": ""
+  },
+  {
+    "short_name": "layout-sidebar-left",
+    "character": "",
+    "unicode": "EBF3",
+    "description": ""
+  },
+  {
+    "short_name": "layout-sidebar-right",
+    "character": "",
+    "unicode": "EBF4",
+    "description": ""
+  },
+  {
+    "short_name": "layout-statusbar",
+    "character": "",
+    "unicode": "EBF5",
+    "description": ""
+  },
+  {
+    "short_name": "target",
+    "character": "",
+    "unicode": "ebf8",
+    "description": ""
+  },
+  {
+    "short_name": "indent",
+    "character": "",
+    "unicode": "ebf9",
+    "description": ""
+  },
+  {
+    "short_name": "record-small",
+    "character": "",
+    "unicode": "ebfa",
+    "description": ""
+  },
+  {
+    "short_name": "error-small",
+    "character": "",
+    "unicode": "ebfb",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-circle-down",
+    "character": "",
+    "unicode": "ebfc",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-circle-left",
+    "character": "",
+    "unicode": "ebfd",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-circle-right",
+    "character": "",
+    "unicode": "ebfe",
+    "description": ""
+  },
+  {
+    "short_name": "arrow-circle-up",
+    "character": "",
+    "unicode": "ebff",
+    "description": ""
+  },
+  {
+    "short_name": "layout-sidebar-right-off",
+    "character": "",
+    "unicode": "EC00",
+    "description": ""
+  },
+  {
+    "short_name": "layout-panel-off",
+    "character": "",
+    "unicode": "EC01",
+    "description": ""
+  },
+  {
+    "short_name": "layout-sidebar-left-off",
+    "character": "",
+    "unicode": "EC02",
+    "description": ""
+  },
+  {
+    "short_name": "heart-filled",
+    "character": "",
+    "unicode": "EC04",
+    "description": ""
+  },
+  {
+    "short_name": "map",
+    "character": "",
+    "unicode": "EC05",
+    "description": ""
+  },
+  {
+    "short_name": "map-filled",
+    "character": "",
+    "unicode": "EC06",
+    "description": ""
+  },
+  {
+    "short_name": "circle-small",
+    "character": "",
+    "unicode": "EC07",
+    "description": ""
+  },
+  {
+    "short_name": "bell-slash",
+    "character": "",
+    "unicode": "EC08",
+    "description": ""
+  },
+  {
+    "short_name": "bell-slash-dot",
+    "character": "",
+    "unicode": "EC09",
+    "description": ""
+  },
+  {
+    "short_name": "comment-unresolved",
+    "character": "",
+    "unicode": "EC0A",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request-go-to-changes",
+    "character": "",
+    "unicode": "EC0B",
+    "description": ""
+  },
+  {
+    "short_name": "git-pull-request-new-changes",
+    "character": "",
+    "unicode": "EC0C",
+    "description": ""
+  }
+]
